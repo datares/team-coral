@@ -4,7 +4,7 @@ This is a project for Data Blog at DataRes during Fall 2021. The article publish
 
 Project Lead: Avishek Ghosh
 
-Team Members: Koowon Jeong, Baochao Gu, Siew Fen Eow
+Team Members: Kowoon Jeong, Baochao Gu, Siew Fen Eow
 
 ## Project Description
 The goal of this project is to identify any trends in the type of people that have the most followers on social media.
