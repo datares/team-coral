@@ -13,3 +13,4 @@ The goal of this project is to identify any trends in the type of people that ha
 We used a dataset from Kaggle that contained the list of top 50 followed people on Instagram, Facebook, Twitter, TikTok and Youtube.
 
 Link to dataset: https://www.kaggle.com/kkhandekar/social-media-platform-with-most-subscribers
+
